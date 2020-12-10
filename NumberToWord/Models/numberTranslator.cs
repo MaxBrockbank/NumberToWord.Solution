@@ -15,8 +15,8 @@ namespace NumberTranslator.Models
 
         public Translator (string number)
         {           
-            // UserNumber = number;
-            // NumberToArray = number.ToCharArray();
+            UserNumber = number;
+            NumberToArray = number.ToCharArray();
         }
 
     }
