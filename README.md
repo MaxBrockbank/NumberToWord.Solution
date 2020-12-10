@@ -3,8 +3,8 @@
 <div align="center">
 <img src="https://github.com/jeffchiudev.png" width="200px" height="auto" >
 </div>
-<p align="center">Authored by Jeff Chiu</p>
-<p align="center">Updated on: TODO</p>
+<p align="center">Authored by Jeff Chiu, Max Brockbank</p>
+<p align="center">Updated on: 10.Dec.2020</p>
 
 #### _TODO, v1.0, 20.nov.2020_
 
