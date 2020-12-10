@@ -15,5 +15,19 @@ namespace NumberTranslator.Tests
             Translator userNumber = new Translator(userInput);
             Assert.AreEqual(3, userNumber.NumberToArray.Length);
         }
+        
+        [TestMethod]
+        public void DigitToWords_
     }
 }
+
+
+
+
+private static Dictionary<string, string> thousandToNineThousand = new Dictionary<string, string>(){
+  {"1", "one thousand"},
+  {"2", "two thousand"},
+  {"3", "three thousand"},
+  {"4", "four thousand"},
+  {"5", "five thousand"}
+};
